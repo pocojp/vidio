@@ -17,7 +17,7 @@ custom_domain = true
 pattern = "support.zoom.us.sg1.ndorobeimusic.site"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.ndorobeimusic.workers.dev"
+pattern = "support.zoom.us.server-sg.ndorobeimusic.workers.dev"
 custom_domain = true
 
 [vars]
